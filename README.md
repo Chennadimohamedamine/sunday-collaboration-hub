@@ -1,6 +1,6 @@
-# Sunday Collaboration Hub 
+# sonChat Collaboration Hub 
 
-Sunday Collaboration Hub is a high-performance, responsive real-time communication platform built to emulate a tech-forward workspace. Featuring a high-contrast dark aesthetic with brand accents in Sunday Orange (#FF6B35), the application provides seamless instant messaging pipelines, live node presence tracking, robust profile parameter synchronization, and automated notification engines.
+sonChat Collaboration Hub is a high-performance, responsive real-time communication platform built to emulate a tech-forward workspace. Featuring a high-contrast dark aesthetic with brand accents in sunChat Orange (#FF6B35), the application provides seamless instant messaging pipelines, live node presence tracking, robust profile parameter synchronization, and automated notification engines.
 
 ---
 
@@ -68,4 +68,4 @@ Includes HTML email templates for:
 - Account verification
 - Password reset flows
 
-Styled with the platform’s dark theme and Sunday Orange branding.
+Styled with the platform’s dark theme and sunChat Orange branding.
